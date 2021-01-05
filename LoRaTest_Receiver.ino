@@ -8,11 +8,11 @@ String rssi = "RSSI --";
 String packSize = "--";
 String packet ;
 
-const String ssid = "polsreberka";
-const String password = "Argentyna2014";
-const String mqtt_server = "192.168.0.107";
+const String ssid = "TBD";
+const String password = "TBD";
+const String mqtt_server = "TBD";
 const String usr = "mqtt";
-const String pass = "Polki1234!";
+const String pass = "TBD";
 
 WiFiClient espClient;
 PubSubClient client(espClient);
